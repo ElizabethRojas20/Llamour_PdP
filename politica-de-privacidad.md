@@ -67,7 +67,7 @@ Así funciona tu compra:
 
 <div align="center">
 
-🕯️ **Eliges** &nbsp;➜&nbsp; 💬 **Escribes por WhatsApp** &nbsp;➜&nbsp; 💳 **Coordinamos el pago** &nbsp;➜&nbsp; 🚚 **Recibes tu pedido** &nbsp;➜&nbsp; 💖 **¡Disfrutas!**
+🕯️ <b>Eliges</b> &nbsp;➜&nbsp; 💬 <b>Escribes por WhatsApp</b> &nbsp;➜&nbsp; 💳 <b>Coordinamos el pago</b> &nbsp;➜&nbsp; 🚚 <b>Recibes tu pedido</b> &nbsp;➜&nbsp; 💖 <b>¡Disfrutas!</b>
 
 </div>
 
@@ -149,9 +149,9 @@ Si tienes consultas sobre esta política o sobre el tratamiento de tus datos per
 
 <h3 style="color:#B5576B;">🕯️ LLAMOUR CANDLES</h3>
 
-📧 [llamourcandles.pe@gmail.com](mailto:llamourcandles.pe@gmail.com)
+<p>📧 <a href="mailto:llamourcandles.pe@gmail.com">llamourcandles.pe@gmail.com</a></p>
 
-💬 WhatsApp: [+51 987 710 950](https://wa.me/51987710950)
+<p>💬 WhatsApp: <a href="https://wa.me/51987710950">+51 987 710 950</a></p>
 
 </div>
 
