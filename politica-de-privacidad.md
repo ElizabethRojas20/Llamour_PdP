@@ -22,7 +22,6 @@
 |---|---|
 | 🏷️ **Nombre comercial** | LLAMOUR CANDLES |
 | 👩‍💼 **Titular** | Elizabeth Rojas |
-| 🧾 **RUC** | Pendiente de regularización |
 | 📧 **Correo electrónico** | [llamourcandles.pe@gmail.com](mailto:llamourcandles.pe@gmail.com) |
 | 💬 **WhatsApp** | [+51 987 710 950](https://wa.me/51987710950) |
 
